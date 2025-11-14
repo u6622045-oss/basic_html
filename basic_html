@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>My Personal Profile</title>
+</head>
+
+<body>
+
+    <!-- Page Title -->
+    <h1>Botiwin Nay</h1>
+
+    <!-- Profile Image -->
+    <img src="public/images/myimage.png" alt="Profile Photo" width="200" />
+
+    <!-- About Me Section -->
+    <h2>About Me</h2>
+    <p>
+        Hello! My name is Botiwin. I am a technology enthusiast who enjoys 
+        learning about new technology and how to operate them.
+    </p>
+
+    <!-- Hobbies List -->
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Reading books</li>
+        <li>Playing Games</li>
+    </ul>
+
+</body>
+</html>
